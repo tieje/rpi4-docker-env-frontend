@@ -4,4 +4,4 @@ A general purpose environment for Raspberry Pi 4 B with an architecture of `linu
 
 ## Build Command
 
-`docker buildx build --platform linux/arm/v7 -t tieje/skilltree_prod_frontend:latest --push .`
+`docker buildx build --platform linux/arm/v7 -t tieje/rpi4_frontend:latest --push .`
